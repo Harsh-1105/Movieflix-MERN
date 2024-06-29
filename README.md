@@ -1,7 +1,3 @@
-Certainly! Here's a rephrased version of the information for your GitHub README:
-
----
-
 # MERN Stack Movie Application
 ## MOVIEFLIX
 
