@@ -111,7 +111,8 @@ npm start    # Start the server
 - **TMDB API**: Access movie and TV show data from The Movie Database platform
 
 ## Screenshots
-![home1](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/bf04bf22-fd24-422c-bac7-943296b53077)
+<p align = "center">
+  ![home1](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/bf04bf22-fd24-422c-bac7-943296b53077)
 ![home](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/9a582d8b-2769-4952-8d69-c6d782b12938)
 ![movie_desc](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/eecd9eca-ad00-4ce6-b5aa-25be7ad00d78)
 ![signup](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/5305c078-7231-460d-b4d4-71631d99ad68)
@@ -119,6 +120,8 @@ npm start    # Start the server
 ![search](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/8ed07806-2102-48b1-84d9-61a4c7c91dc0)
 ![reviews](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/30af2179-3340-40ba-8385-c5a2c8f87d4f)
 ![hamburger](https://github.com/Harsh-1105/Movieflix-MERN/assets/78211002/039703c7-84d6-46e0-bad1-069ecb1a7528)
+</p>
+
 
 
 ## Author
@@ -126,9 +129,3 @@ Harsh Kumar Sharma
 
 ## License
 MIT LICENSE 
-
-(Include license information here)
-
----
-
-Feel free to replace the placeholders with your specific details, such as your MongoDB URL, secret token, TMDB API base URL, TMDB API key, screenshots, author name, and license information.
